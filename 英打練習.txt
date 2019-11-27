@@ -126,3 +126,75 @@ and all the Darcy-alikes with never find space on any teenage boy's bedroom wall
 inch will be plastered with revolting posters of zombies. There are no levels of Freudian
 undertone to zombies. Like boys, they're not subtle. There's nothing sexual about them,
 and nothing sexy either.
+
+2019.11.27
+
+	10 Neat Facts About Google Posted by Alex in Blog & Internet, Neatorama Only on 
+November 3, 2009 at 3:44 am.
+	Sure, everybody knows that Google was created by Stanford Ph.D. students Larry Page
+and Sergey Brin who became gazillionaires. But did you know that Google's first storage
+device was cobbled together with LEGO? Or that Google's first investor wrote a $100,000 
+check even before the company officially existed? Or that it has its own "official" Google 
+dog?
+	Neatorama presents the Top 10 Neat Facts About Google:
+
+1. Before Google, There Was BackRub
+	In 1996, graduate students Larry Page and Sergey Brin worked on a research project to
+understand the link structure of the World Wide Web. They're particularly interested in 
+determining the importance of a given web page based on its backlines or how many other
+web pages link to it (which later become the concept behind Google's "PageRange" alogorithm).
+The project was named BackRub (yes, a play on the word "backline").
+	Your logo is upside down : Why is the light source obviously below the image? It looks
+quite unnatural ... The logo is simply a scan of my hand, from a flatbed scanner converted 
+to black and white. The "back" in the picture is the scanner cover, and the shadows are 
+from the scanner light.
+
+2. The Original Google Computer Storage 
+	Larry and Sergey needed large amount of disk space to test their PageRank also, but 
+the largest hard disks avalible at the time were only 4 GB. So they assembled 10 of these drivers
+together.
+	While he was an undergrade at Michigan University, Larry had built a programmable
+plotter out of LEGO, so it's only natural that he used the colorful bricks to creat Google's first 
+computer storage!
+
+3. Google's First Investor
+	Sun Microsystem co-founder Andy Bechtolsheim knew a good thing when he saw it.
+After talking to Larry and Sergey about Google for 30 minuntes, he whipped out his checkbook
+and wrote a check for $100,000, made out to "Google, Inc." Problem was, Google, Inc. hasn't 
+existed yet!
+	Oh, by the way, the Sun in Sun Microsystem stands for "Stanford University Network."
+
+4. Google Garage 
+	Talk about getting lucky tenants. In 1998, Susan Wojcicki rented her garage to two 
+Stanford students -you know who they are -for $1,700 a month to help out with the mortgage.
+That turnned out to be a life-changing decision for Susan- it got her a key early job at Google 
+which translated to a top executive position later on, introduced a future husband to her younger 
+sister Anne, and creates a mini cottage industry for the rest of her family. (Photo: Jack Gruber / 
+USA Today)
+	In 2006, Google bought the house which had become a tourist attraction (the busloads
+of people who shows up to take pictures were so annoying  that Google desided not to publish 
+the address - though ironically, you can still Google Map it.)
+
+5.Google's First Dog 
+	Despite the Internet's obsession with cat, dogs rule Google.. In 1999, a Leonberger breed 
+named Yoshka came to work with Google's first VP of Engineering Urs Holxle and become the 
+company's "first" dog.(Photo: Google Timeline)
+	If you must know, Leonbergers are big dogs with lionesque mane that look really majestic.
+They are, however, useless as guard dogs because they're too kind and gentel.
+
+6. Just How Many Servers Does Google Have?
+	Good question. Nobody outside the company knows, and Google ain't talk'in. The 
+company's famously secretive when it comes to its data centers (Heck, no one even knows for 
+sure how many data centers the company has!)
+	For example, The Dailies or "Googleville" data center in a small Oregon town, was 
+cloaked in secerecy:
+	"No one says the 'G'word," said Diane Sherwood, executive director of the Port of Klickitat,
+Wash., directly across the river from The Dalles, who is not bound by such agreement."It's a little 
+bit like He-Who-Must-Not-Be-Named in Harry Potter.
+	Recently, Google Fellow Jeff Dean gave a revealing talk on large-scale computing systems
+in which designed for up to 10 million servers.Skynet. anyone? 
+
+7. "Green" Search
+	All those hardware must use a lot of electricity (indeed, Googleville data center is calculate
+to require about 103 megawatts of electricity-enough to power 82,000 homes or a city the size of 
+Tacoma, Washington), but just how much energy do you use when you perform a Google search?

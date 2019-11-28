@@ -198,3 +198,77 @@ in which designed for up to 10 million servers.Skynet. anyone?
 	All those hardware must use a lot of electricity (indeed, Googleville data center is calculate
 to require about 103 megawatts of electricity-enough to power 82,000 homes or a city the size of 
 Tacoma, Washington), but just how much energy do you use when you perform a Google search?
+
+2019.11.28
+
+	Google calculated that it uses about 1kJ (0.0003 kWh) of energy to answer the average 
+search  query. It's so efficient that your PC will likely use more energy in the time it takes to do a
+Google search.
+	To offset its electricity consumption, Google even installed 1.6MW solar panels on the 
+rooftops of the Googleplex . A total of 9,212 solar panels generate 4,475 kWh daily, the equivalent
+of about the amount of electricity used by1,000 California homes.
+
+8. Google Trike
+	I'm sure you're all familiar with Google Street View and the camera-toppped Google 
+Car, but what about all of the interesting places inaccessible to cars? Enter the Google Trike,
+which started as a project by Daniel Ratner, a Senior Mechanical Egineer on the Street View 
+team:
+	"I began thinking about building a bicycle-based Street View system after realizing 
+how many interesting places around the world - ranging from historic landmarks to beautiful
+trails to shopping districts - aren't accessible by car," says Dan. "When I'm riding the trike, so
+many people come up to me and ask where it's off to next or how they can get imagery of 
+their favorite spot, so I can't wait to see what our users come up with."
+	Previously on Neatorama: Google Car Pulled Over by the Cops - Now in Google Street
+View!
+
+9. I'm Feeling Lucky Costs Google $110 Million a Year
+	The "I'm Feeling Lucky" button on Google's homepage takes you straight to the first 
+web page results. Because it bypasses Google's own search result page, where users are shown 
+ads, the button actually costs Google around $110 million a year.
+	Why keep it? Google Vice President of Search Product and User Experience Marisa 
+said:
+	You know Larry and Sergey had the view, and I certainly share it, that it's possible 
+just to become too dry, too corporate, too much about making money. And you know what I 
+think is really delightful about Google and about the "I'm Feeling Lucky," is that they remind you
+that people here have personality and that thay have interests and that there is real people.
+
+10. Googlebot, Revealed At Last!
+	In 2005, Ben Rathbone (then at Google'a Hardware Operations) gave us a glimpse of 
+humanity's future. I, for one welcome our new Googlebot overlord:
+	Then I pondered the question: what does Google do? The grossly simplified answer
+that I cmae up with is Google connects the world with the Internet.
+	It all snapped into place: the idea of a robot, connecting a world with the Internet, with
+the Internet, with wires, that connect to big cabinets of computers. It was not hard then to make 
+the leap to representing the internet as a world, or globe, made up of pages.
+
+	The Ugliest Building That's Flip to Print 
+	The American Institude of Architects - never a group to remain silent in the face of 
+structures that it deems unattractive - has released an index of the ugliest building in New York 
+City, part of the local chapter's annual guide to the city's architecture. And guess who is ugliest 
+this year? Hint: it's the new headquarters of daily broadsheet newspaper.
+	Elsewhere in the new list are not one but two Donald Trump towers, a light blue T.G.I
+Friday's restaurant on the Fifth Avenue, a training center for unionized iron workers, a drab Bronx
+apartment building and the former headquarters of the defunct Bear Steams.
+
+	Lettis's Wine Rules: Cheese and Vino 
+	Red wine and cheese is one of those couplings - like country and Western - that's so 
+automatic that few people actually stop to consider if it actually makes sense. Why not, for 
+example, country and Southern, since that's where so much of the music comes from anyway?
+	Any why red wine with cheese when white wine is so much better with it? Although 
+red wine does go well with certain hard cheeses (such as Parmigiano), I find that its tannins 
+often get in the way. White wines work better because they're so much more versatile in style,
+texture and character. They can be soft and fruity, dry and minerally or sumptuously sweet.
+They can pair with goat cheese and blue cheese and stinky cheese, too.
+	But I'm convinced that most people drink red wine with cheese for one simple reason:
+At the ebd of the meal, it's what they have in their glass. The other night, I was at a friend's house 
+for dinner and they pulled out some Camembert to polish off the rest of the wine. Though the
+cheese was lovely, it was pretty much squashed by the Zinfandel, whose assertive flavors and 
+fairly high alcohol practically bullied the poor Camembert straight off the plate.
+	My solution is simple: I serve my cheese at the start of the meal, accompanied by a 
+glass of white wine- Sauvignon Blanc, Gruner Veltliner or a Riesling. I know it's not particularly
+fashionable - it may even be a bit Midwestern, as one guest once said (without even knowing
+that's where I'm from ). But it definitely works as a food and wine pairing. And I'm happy to 
+say I've made a few converts. Like my friend Vonnie (Pennsylvania-born), who likes cheese 
+first, as well - though she added she 'aspired' to having it after meal. 'I know that it's chic,' she
+told me , 'but actually I'd rather have brownie instead.' 
+

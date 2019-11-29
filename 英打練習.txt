@@ -272,3 +272,71 @@ say I've made a few converts. Like my friend Vonnie (Pennsylvania-born), who lik
 first, as well - though she added she 'aspired' to having it after meal. 'I know that it's chic,' she
 told me , 'but actually I'd rather have brownie instead.' 
 
+
+2019.11.29
+
+	Eating To Live Or Living To Eat?
+	Imagine the typical office birthday party. It's after lunch, so everybody is full. Then, in
+comes a lusious chocolate confection. The sight, the smell -- even the sound of the world 'cake!'
+--stimulate the reward-and-pleasure circuitsof the brain, activating memory centers and salivary 
+glands as well.
+	Those reactions quickly drown out the subtle signals from the stomach that are saying,
+in effect, 'Still digesting down here. Don't send more!' Social cues add pressure and permission 
+to indulge. Soon, everybody is having a slice -- or two.
+	Scholars have understood the different motives for eating as far back as Socrates, who
+counseled, 'Tou shouldst eat to live, not live to eat.' But nowadays, scientists are using sophisticate
+brain-imaging technology to understand how the lure of delicious food can overwhelm the body's
+built-in  mechanism to regulate hunger and fullness, what's called 'hedonic' versus 'homeostatic'
+eating.
+	One thingis clear: Obese people  react much more hedonistically to sweet, fat-landen
+food in the pleasure and reward circuits of the brain than healthy-weight people do. Simply seeing
+pictures of tempting food can light up the pleasure-seeking areas of obese poeple's brains.
+	Two conferences this week on obesity are each examining aspects of how appetite works
+in the brain and why some people ignore their built-in fullness signals. Scientists hope that 
+breakthroughs will lead to ways to retrain people's thinking about food or weight-loss drugs that
+can target certain brain areas.
+	Top 10 rental homes in North America
+	(Reuters Life!) - Sometimes you want the comforts of home even while you're on holiday 
+and a luxury rental can put you at ease while you're sampling the best of a nea city, resort or region.
+	Travel Web sit TripAdvisor (www.tripadvisor.co.uk) has provide its own list of luxury 
+rental homes in North America, ranging from beachside villas to spacious mountainside estates on 
+the slopes. This list is not endorsed by Reuters.
+1. 17 Mile Drive at the Lodge, Pebble Beach, California
+	Designed as a French chateau overlooking the Pacific Ocean and famous Pebble Beach 
+Golf Course, heavenly 17 Mile Drive at the Lodge comfortably sleeps 17 within its majestically 
+art-adorned walls. It's also perfect for a gold-plated summer barbeque with open-air patios, 
+bocce ball courts, a water fountain, playground and room on its more than three acres of land 
+designed to host more than 200 guests.
+2. MIT PED, Punta de Mita, Mexico
+	Called the Casa EI Destino, this uber-luxurious rental home sports breathtaking views 
+of the Pacific Ocean, the Marieta Island, and the skyline of Puerto Vallarta. Guests can play chef 
+in its gourmet kitchen, swim in its expansive oceanfront pool, or take in rounds of golf with 
+preferential tea times at outstanding nearby courses.
+3. Camelback Vista, Phoenix, Arizona
+	Resting high on Camelback Mountain, remarkable Camelback Vista overlooks the 
+beautiful Valley of the Sun and its surrounding red sandstone cliffs. The property boasts a 
+triangular infinity edged pool that spills over in all directions, a spacious outdoor kitchen,
+theater room, and even a rock climbing wall for the more active traveler.
+4. Casa Fryzer, Cabo San Lucas, Mexico
+	Complete with an in-house chef and bartender, magnificently equipped Casa Fryzer 
+is a stunning vacation rental over looking the water on Cobo San Lucas. The property includes 
+a wine cellar, gym, and theater room with surround sound and recliners, and showcases great 
+attention to detail in its exterior design and modern chic interior decor.
+5. Aguajito Rd, Carmel, California
+	With over 10,000 square feet overlooking the Monterey Peninsula, the majestic 
+Aguajito Rd has plenty of space for traveters to strech out and relax during their trip. It also 
+features a kitchen designed by a local celebrity chef and has a spacious outdoor kitchen, 
+barbeque and bar area that can accommodate up to 100 guests.
+
+	What's NodeJS and Wht You need to learn it
+	Node.js is a framework for writing server-side JavaScript applications. It built on top 
+of the V8 JavaScript runtime and uses an event-driven, non-block I/O model that makes it 
+perfect for data-intensive, real-time application.
+	Some of the leading companies in the world use Node in production, like Netflix,
+Paypal, Walmart, and Uber.
+	Node is often used to build back end service that communicate with client-side 
+applications. These applications get and send data through a back end service called an API.
+The API server as an interface between different programs so they are able to talk to each 
+other. A web app and a mobile app below can leverage the same API to store data, sende 
+mails, push notification or initiate workflows on the server.
+ 

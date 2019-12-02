@@ -339,4 +339,74 @@ applications. These applications get and send data through a back end service ca
 The API server as an interface between different programs so they are able to talk to each 
 other. A web app and a mobile app below can leverage the same API to store data, sende 
 mails, push notification or initiate workflows on the server.
- 
+
+2019/12/2
+
+	Architecture
+	Every browser has their own JavaScript engine that converts javascript into code 
+that a computer can understand. For example, Microsoft Edge uses Chakra, Firefox uses 
+spidermonkey, and chrome uses V8. This explains why JavaScript code can behave 
+differently in other browsers.
+	Before Node, you could only run LavaScript on the browser. In 2009, being able 
+to run JavaScript outside of the browser was finally made possible when Ryan Dahl came 
+up with the idea of executing JavaScript outside of the browser. So, he took chromes v8 
+engine, which is the fastest JavaScript engine avaliable, and embedded it inside of a C++ 
+program and called Node.
+	Browsers provide different objects for us to carry out certain task using JavaScript.
+With Node, we have objects that allow us to manipulate the file system by creating and 
+deleting folders, query databases directly, and create wed servers to serve dat. Both Chrome 
+and Node contain the V8 engine, but provide different run time enviroments that give us 
+access to different objects/tools to leverage different functions,
+	Earlier, I talked about how node is the best for building highly scalabe, data 
+intensive applications, Keep in mind that there are other tools and frameworks for building
+back-end services such as ASP.NET, Rails, and Django. But, Node comes out on top because
+of its asynchronous nature.
+	What is I/O ?
+	I/O is shorthand for Input or Output and it means accessing outside of your application. 
+Once an application has started, it is loaded into the machine's memory. That's what the CPU 
+will mostly use for running your program.
+	Accessing memory is pretty fast, hence a lot of caching mechanisms simply use RAM 
+to store data. However, applications will often need to access the network or read from a text 
+file, and these types I/O are by far the slowest types. That's where non-blocking I/O proves it's 
+dominance.
+	Non-Blocking I/O (Asynchronous)
+	Asynchronous, non-blocking servers, like ones made in Node, only use one thread to 
+service all requests. This means an instance of Node makes the most out of a single thread. This 
+means the server can serve a lot of request without requiring more server hardware; which is
+expensive.
+	When requests arrive at the server, they are serviced one at a time. However, when the 
+code serviced needs to query the DB for example, it sends the callback to a second queue and the 
+main request continues to run ; it doest't wait. Now when the DB operation completes and returns,
+the corresponding callback is pulled out of the second queue and queued in a third queue where 
+they are pending execution. When the engine gets a chance to execute something else, it picks
+up a callback from the third queue and executes it.
+	Blocking I/O (Synchronous)
+	Synchronous blocking operations is how some web servers, like ones in ASP.NET, handle 
+IO or network requests by default. If your code reads from a file or the database, your code 
+"blocks" everything after it from executing until that first request is finished. In that period, your 
+machine is holding onto memory and processing time for a thread that is idle.
+	In order to cater other requests while that thread has stalled depends on your softaware.
+Most server software spawns more threads to handle the additional requests. This causes more 
+memory and processing to be consumed.
+	I'm not saying that ASP.NET and other types of frameworkd can't run code asynchrously,
+they can , but you have to write more code to make it happen. Node runs asynchronously by 
+default without writing extra code. 
+	Why Learn NodeJS?
+	According to a new study by Carl Joseph and Terence Siganakis, JavaScript was the 
+most popular programming language in 2017, and still stands in 1st place today. Developers 
+who knows JavaScript are in high demand bt employers because it powers the words most 
+popular client-side framework like Angular, React, and Vue. Now, thanks to the perfection of 
+Node, JavaScript can be ran on the server side too.
+	Think of a webside you use regularly. Chances are, it is responsive, beautiful, and 
+quick. This is because it is a frint-end application. Front in applications are composed of HTML,
+CSS, and JavaScript. Almost all websites today use JavaScript frameworks to power the 
+front-end of their applications, such as data binding, routing, and animations.
+	One of the benefits of Node, is that a front-end developer that knows JavaScript can 
+be hired on as a full stack developer will higher pay. Teams can build the front-end of an 
+application and the back end of the application using one language. It makes more sense to 
+use Node on the back end because you'll use JavaScript all the way front to back with same 
+conventions, code style, tools, etc.
+	Knowing Node makes you more valuable to employers because they are already in
+the process of implementing JavaScript on the front-end and backend.
+	and that my friend is good news for you(:
+
